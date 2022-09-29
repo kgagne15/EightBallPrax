@@ -1,0 +1,20 @@
+.EightBall {
+    display: flex; 
+}
+
+.EightBall-circle {
+    border-radius: 50%;
+    height: 400px; 
+    width: 400px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 50px auto; 
+}
+
+
+.EightBall-msg {
+
+    color: blue; 
+    text-align: center;
+}
